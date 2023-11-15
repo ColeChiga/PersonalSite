@@ -1,8 +1,25 @@
-body {
-	background-color: lightskyblue;
-}
-
 #main-page-image{
 	width: 130px;
 	height: 240px;
 }
+
+.name-plate{
+	background-color: midnightblue;
+	color: silver;	
+	margin-bottom: none;
+	padding-bottom: none;
+}
+
+.navbar-custom{
+	margin-top: none;
+	background-color: silver;
+}
+
+
+
+
+
+
+
+
+
